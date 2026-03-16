@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee" version="5.0">
+	<servlet>
+		<servlet-name>MovieTicket</servlet-name>
+		<servlet-class>com.ht24.movieticket.controller.MovieTicketController</servlet-class>
+	</servlet>
+	
+</web-app>
