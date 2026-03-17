@@ -11,9 +11,6 @@ import jakarta.servlet.http.HttpServletResponse;
 @WebServlet("/movies")
 public class MovieTicketController extends HttpServlet {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 8839877152283498192L;
 
 	@Override
